@@ -1,0 +1,22 @@
+{
+  "name": "number-to-currency",
+  "version": "1.0.1",
+  "description": "A Simple 👌 & lightweight JavaScript number to currency formatter library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "formatter",
+    "currency formatter",
+    "currency format",
+    "intl currency",
+    "format number to currency",
+    "unformat currency to number",
+    "intl number",
+    "toLocaleString"
+  ],
+  "author": "wavefly",
+  "license": "MIT"
+}
